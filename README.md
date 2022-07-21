@@ -26,6 +26,14 @@ MILITAR:
 
 https://mundomotorcol.com/View/Militar/militar
 
+Autos:
+
+https://mundomotorcol.com/View/Autos/autos
+
+AeroTransporte:
+
+https://mundomotorcol.com/View/Aerotransporte/aerotransporte
+
 
 
 OTROS TEMAS:
